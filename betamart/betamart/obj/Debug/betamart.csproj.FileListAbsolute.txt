@@ -1,0 +1,12 @@
+D:\Sekolah\ukk\betamart\betamart\betamart\bin\Debug\betamart.accdb
+D:\Sekolah\ukk\betamart\betamart\betamart\bin\Debug\betamart.exe.config
+D:\Sekolah\ukk\betamart\betamart\betamart\bin\Debug\betamart.exe
+D:\Sekolah\ukk\betamart\betamart\betamart\bin\Debug\betamart.pdb
+D:\Sekolah\ukk\betamart\betamart\betamart\obj\Debug\betamart.csproj.AssemblyReference.cache
+D:\Sekolah\ukk\betamart\betamart\betamart\obj\Debug\betamart.csproj.SuggestedBindingRedirects.cache
+D:\Sekolah\ukk\betamart\betamart\betamart\obj\Debug\betamart.Form1.resources
+D:\Sekolah\ukk\betamart\betamart\betamart\obj\Debug\betamart.Properties.Resources.resources
+D:\Sekolah\ukk\betamart\betamart\betamart\obj\Debug\betamart.csproj.GenerateResource.cache
+D:\Sekolah\ukk\betamart\betamart\betamart\obj\Debug\betamart.csproj.CoreCompileInputs.cache
+D:\Sekolah\ukk\betamart\betamart\betamart\obj\Debug\betamart.exe
+D:\Sekolah\ukk\betamart\betamart\betamart\obj\Debug\betamart.pdb
