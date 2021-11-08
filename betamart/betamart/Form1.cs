@@ -27,7 +27,11 @@ namespace betamart
                 else
                 {
                     var query = from x in this.appData.main
-                                where x.nama.Contains(txtSearch.Text) || x.harga == txtSearch.Text || x.jumlah == txtSearch.Text || x.distri.Contains(txtSearch.Text)
+                                where x.nama .IndexOf(txtSearch.Text, StringComparison.OrdinalIgnoreCase) >= 0
+                                || x.nama == txtSearch.Text
+                                || x.harga == txtSearch.Text
+                                || x.jumlah == txtSearch.Text
+                                || x.distri.IndexOf(txtSearch.Text, StringComparison.OrdinalIgnoreCase) >= 0
                                 select x;
                     dataGridView.DataSource = query.ToList();
                 }
